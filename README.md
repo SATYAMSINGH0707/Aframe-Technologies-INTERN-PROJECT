@@ -79,5 +79,5 @@ If the label is "ham" (not spam), the program prints "HAM Message".
 Exiting the Program:
 If the user inputs "exit" during the real-time spam detection phase, the program prints "Exiting..." and exits the loop, thereby terminating the program.
 In summary, the output is obtained by iteratively classifying user-input messages in real-time using the trained SVM model and providing the corresponding classification result ("SPAM Detected!" or "HAM Message").
-![Uploading im![Screenshot 2024-04-17 231301](https://github.com/SATYAMSINGH0707/Aframe-Technologies/assets/97894680/0d2663c8-4fb4-40a5-a9f9-55b49a81080d)
-age.png…]()
+![Screenshot 2024-04-17 231301](https://github.com/SATYAMSINGH0707/Aframe-Technologies/assets/97894680/ef33e2e4-8f93-48bf-93ad-ec6829007a91)
+
